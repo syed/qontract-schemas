@@ -4,3 +4,4 @@ WORKDIR /schemas
 
 COPY schemas schemas
 COPY graphql-schemas graphql-schemas
+
